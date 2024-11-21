@@ -1,4 +1,11 @@
 # Approximating the Area of the Mandelbrot Set Using Monte Carlo Estimation
+
+## Overview
+This repository implements Monte Carlo estimation techniques to approximate the area of the Mandelbrot set. The project uses different sampling methods, including random sampling, orthogonal sampling, and adaptive sampling, to estimate the area and compare their effectiveness. The repository includes the core iteration algorithms for generating Mandelbrot points, sampling methods, and tools for statistical analysis and visualization.
+
+The code focuses on evaluating the accuracy, convergence rates, and computational efficiency of each sampling method. Results and visualizations are provided to illustrate the relative performance of these methods.
+
+
 ## Authors:
 - Maarten Stork - 15761770
 - Paul Jungnickel - 15716554
