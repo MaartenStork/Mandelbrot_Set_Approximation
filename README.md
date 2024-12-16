@@ -7,10 +7,10 @@ The code focuses on evaluating the accuracy, convergence rates, and computationa
 
 
 ## Authors:
-- Maarten Stork - 15761770
-- Paul Jungnickel - 15716554
-- Lucas Keijzer - 14041073
-
+- Maarten Stork
+- Paul Jungnickel
+- Lucas Keijzer
+  
 ## Files:
 - `MaartenStork_15761770_PaulJungnick…5716554_LucasKeijzer_14041073..ipynb` - Notebook containing plotting functions and results
 - `mandelbrot.py` - Contains the Mandelbrot iteration algorithms
